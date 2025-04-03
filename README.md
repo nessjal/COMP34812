@@ -30,4 +30,4 @@ During the development of the model, 3 sources were used:
 - Chathpt for for support in creating evaluation helper methods + debugging
 
 # Model Link
-The link to the fully developed model is here: ----INSERT_HERE----
+The link to the fully developed model is here: https://drive.google.com/file/d/16VMWvlhGyGHv4CLLmL4ZmkcFbI0TjAcd/view?usp=sharing
